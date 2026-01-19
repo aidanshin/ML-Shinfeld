@@ -1,0 +1,11 @@
+# Ignore executables
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore files named 'main' (no extension)
+main
+
+# Ignore TODO file
+TODO.txt
