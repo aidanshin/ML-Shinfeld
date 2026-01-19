@@ -1,0 +1,6 @@
+Goal:
+- Take in an input for training set
+- provide random values for testing set
+- generate values for classifier
+
+plot in matplotlib
